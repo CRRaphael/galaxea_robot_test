@@ -1,0 +1,2 @@
+hdf5_collector
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/robot_data_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/robot_data_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/robot_data_ws/devel
+
+Name: hdf5_collector
+Description: Description of hdf5_collector
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
